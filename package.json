@@ -1,5 +1,8 @@
 {
-  "devDependencies": {
-    "svgtofont": "^6.0.0"
-  }
+	"devDependencies": {
+		"svgtofont": "^6.0.0"
+	},
+	"dependencies": {
+		"pinia": "^2.2.4"
+	}
 }
