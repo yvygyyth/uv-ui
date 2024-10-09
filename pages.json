@@ -1,22 +1,9 @@
 {
-	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+	"pages": [
 		{
 			"path": "pages/index/index",
 			"style": {
 				"navigationBarTitleText": "uv-ui"
-			}
-		}, {
-			"path": "pages/demo/demo",
-			"style": {
-				"navigationBarTitleText": "测试",
-				"enablePullDownRefresh": false,
-				"navigationStyle": "custom"
-			}
-		}, {
-			"path": "pages/demo/test",
-			"style": {
-				"navigationBarTitleText": "测试2",
-				"enablePullDownRefresh": true
 			}
 		},
 		{
